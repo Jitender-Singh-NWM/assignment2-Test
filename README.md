@@ -5,7 +5,7 @@ Soccer is a game which can be played by anyone at any age and is very easy to pl
 
 ----
 
-#Soccer details
+# Soccer details
 
 Favourite soccer team is **Real Madrid**
 1. Cristiano Ronaldo
