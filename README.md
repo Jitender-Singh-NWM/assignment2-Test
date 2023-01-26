@@ -24,7 +24,7 @@ Favourite soccer team is **Real Madrid**
 
 # Best countries to visit
 
-IF you are thinking of coutries to visit,below is the list of countries that are good to visit for vacation.
+If you are thinking of coutries to visit,below is the list of countries that are good to visit for vacation.The countries are listed as per the popularity and are quite affordable to travel.
 
 |Countries  |
 | --------  |
@@ -32,6 +32,7 @@ IF you are thinking of coutries to visit,below is the list of countries that are
 |Morocco    |
 |India      |
 |Porugal    |
+
 
 
 
