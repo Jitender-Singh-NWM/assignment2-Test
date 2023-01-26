@@ -20,3 +20,17 @@ Favourite soccer team is **Real Madrid**
 [Go to About me](AboutMe.md)
 
 
+-----
+
+# Best countries to visit
+
+|Countries|
+| --------|
+|USA      | 
+|India    |
+|Maldives |
+|---------|
+
+
+
+
