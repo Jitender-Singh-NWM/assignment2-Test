@@ -37,7 +37,7 @@ If you are thinking of coutries to visit,below is the list of countries that are
 ---
 ## Funny Quotes
 
->Behind every great man is a woman rolling her eyes -*Jim Carey*
+>Behind every great man is a woman rolling her eyes.-*Jim Carey*
 
 >Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.-*Albert Einstein*
 
