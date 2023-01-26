@@ -1,7 +1,7 @@
 # assignment2-Guguloth
 # Jitender Singh 
 ## Favourite Team Sport is Soccer
-Soccer is a game which can be played by anyone at any age and is very easy to play.I like it as it keeps the players **engaged** throughout the game.Soccer keeps us **energitic** and improves **flexibility** of the player.
+Soccer is a game which can be played by anyone at any age and is very easy to play.I like it as it keeps the players **engaged** throughout the game.Soccer keeps us **energitic** and improves **flexibility** of the body.
 
 ----
 
@@ -24,11 +24,14 @@ Favourite soccer team is **Real Madrid**
 
 # Best countries to visit
 
-|Countries|
-| --------|
-|USA      | 
-|India    |
-|Maldives |
+Below is the list of countries that are good to visit for vacation.
+
+|Countries  |
+| --------  |
+|New Zealand| 
+|Morocco    |
+|India      |
+|Porugal    |
 
 
 
