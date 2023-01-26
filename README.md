@@ -5,9 +5,9 @@ Soccer is a game which can be played by anyone at any age and is very easy to pl
 ----
 #Soccer details
 Favourite soccer team is **Real Madrid**
-1 Cristiano Ronaldo
-2 Roberto Carlos
-3 Ronaldo
+1. Cristiano Ronaldo
+2. Roberto Carlos
+3. Ronaldo
 
 - Santillana
 - Claude Makelele
