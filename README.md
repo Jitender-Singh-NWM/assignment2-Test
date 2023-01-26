@@ -29,7 +29,7 @@ Favourite soccer team is **Real Madrid**
 |USA      | 
 |India    |
 |Maldives |
-|---------|
+
 
 
 
