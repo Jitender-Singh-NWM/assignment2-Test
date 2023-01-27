@@ -60,7 +60,7 @@ php_value error_log /location/to/php_error.log
 
 ```
 
-[Snippet Link](https://css-tricks.com/snippets/htaccess/php-error-logging/)
+   [Snippet Link](https://css-tricks.com/snippets/htaccess/php-error-logging/)
 
 
 
