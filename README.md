@@ -44,6 +44,7 @@ If you are thinking of coutries to visit,below is the list of countries that are
 ---
 ## PHP Error Logging
 >[PHP - error logging through htaccess - Error 500.](https://stackoverflow.com/questions/64077699/php-error-logging-through-htaccess-error-500)
+<https://stackoverflow.com/questions/64077699/php-error-logging-through-htaccess-error-500>
 
 
 
